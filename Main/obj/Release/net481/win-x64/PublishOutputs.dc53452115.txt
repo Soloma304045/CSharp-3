@@ -1,0 +1,6 @@
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\publish\Main.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\publish\Main.exe.config
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\publish\Main.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\publish\NCalc.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\publish\Library.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\publish\Library.pdb

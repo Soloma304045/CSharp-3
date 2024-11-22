@@ -1,0 +1,2 @@
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Library\bin\Release\net481\win-x64\publish\Library.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Library\bin\Release\net481\win-x64\publish\Library.pdb

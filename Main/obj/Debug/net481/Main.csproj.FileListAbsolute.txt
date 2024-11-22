@@ -1,0 +1,14 @@
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Debug\net481\Main.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Debug\net481\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Debug\net481\Main.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Debug\net481\Main.AssemblyInfo.cs
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Debug\net481\Main.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Debug\net481\Main.exe.config
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Debug\net481\Main.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Debug\net481\Main.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Debug\net481\Library.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Debug\net481\Library.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Debug\net481\Main.csproj.Up2Date
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Debug\net481\Main.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Debug\net481\Main.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Debug\net481\NCalc.dll

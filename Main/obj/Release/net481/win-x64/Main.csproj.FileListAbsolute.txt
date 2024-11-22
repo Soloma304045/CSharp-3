@@ -1,0 +1,14 @@
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\Main.exe.config
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\Main.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\Main.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\NCalc.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\Library.dll
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\bin\Release\net481\win-x64\Library.pdb
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Release\net481\win-x64\Main.csproj.AssemblyReference.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Release\net481\win-x64\Main.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Release\net481\win-x64\Main.AssemblyInfoInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Release\net481\win-x64\Main.AssemblyInfo.cs
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Release\net481\win-x64\Main.csproj.CoreCompileInputs.cache
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Release\net481\win-x64\Main.csproj.Up2Date
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Release\net481\win-x64\Main.exe
+C:\Users\Иван\Desktop\OOP\3 Семестр\CSharp-3\Main\obj\Release\net481\win-x64\Main.pdb

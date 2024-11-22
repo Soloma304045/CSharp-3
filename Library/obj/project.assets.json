@@ -1,0 +1,61 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.8.1": {},
+    ".NETFramework,Version=v4.8.1/win-x64": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.8.1": []
+  },
+  "packageFolders": {
+    "C:\\Users\\Иван\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-3\\Library\\Library.csproj",
+      "projectName": "Library",
+      "projectPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-3\\Library\\Library.csproj",
+      "packagesPath": "C:\\Users\\Иван\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-3\\Library\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Иван\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net481"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net481": {
+        "targetAlias": "net481",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+      }
+    },
+    "runtimes": {
+      "win-x64": {
+        "#import": []
+      }
+    }
+  }
+}

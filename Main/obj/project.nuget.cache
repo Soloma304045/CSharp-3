@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AGPn/JScNf4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Иван\\Desktop\\OOP\\3 Семестр\\CSharp-3\\Main\\Main.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Иван\\.nuget\\packages\\ncalc\\1.3.8\\ncalc.1.3.8.nupkg.sha512"
+  ],
+  "logs": []
+}
